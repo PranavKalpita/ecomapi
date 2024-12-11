@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B17EBDC6-A94A-4561-BAB4-F7068EF3EB14}|ecomapi\\ecomapi.csproj|c:\\users\\pranavkumar\\desktop\\collegeproject\\ecomapi\\ecomapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17EBDC6-A94A-4561-BAB4-F7068EF3EB14}|ecomapi\\ecomapi.csproj|solutionrelative:ecomapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17EBDC6-A94A-4561-BAB4-F7068EF3EB14}|ecomapi\\ecomapi.csproj|c:\\users\\pranavkumar\\desktop\\collegeproject\\ecomapi\\ecomapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17EBDC6-A94A-4561-BAB4-F7068EF3EB14}|ecomapi\\ecomapi.csproj|solutionrelative:ecomapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17EBDC6-A94A-4561-BAB4-F7068EF3EB14}|ecomapi\\ecomapi.csproj|c:\\users\\pranavkumar\\desktop\\collegeproject\\ecomapi\\ecomapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17EBDC6-A94A-4561-BAB4-F7068EF3EB14}|ecomapi\\ecomapi.csproj|solutionrelative:ecomapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17EBDC6-A94A-4561-BAB4-F7068EF3EB14}|ecomapi\\ecomapi.csproj|c:\\users\\pranavkumar\\desktop\\collegeproject\\ecomapi\\ecomapi\\controllers\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17EBDC6-A94A-4561-BAB4-F7068EF3EB14}|ecomapi\\ecomapi.csproj|solutionrelative:ecomapi\\controllers\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17EBDC6-A94A-4561-BAB4-F7068EF3EB14}|ecomapi\\ecomapi.csproj|c:\\users\\pranavkumar\\desktop\\collegeproject\\ecomapi\\ecomapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B17EBDC6-A94A-4561-BAB4-F7068EF3EB14}|ecomapi\\ecomapi.csproj|solutionrelative:ecomapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17EBDC6-A94A-4561-BAB4-F7068EF3EB14}|ecomapi\\ecomapi.csproj|c:\\users\\pranavkumar\\desktop\\collegeproject\\ecomapi\\ecomapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17EBDC6-A94A-4561-BAB4-F7068EF3EB14}|ecomapi\\ecomapi.csproj|solutionrelative:ecomapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17EBDC6-A94A-4561-BAB4-F7068EF3EB14}|ecomapi\\ecomapi.csproj|c:\\users\\pranavkumar\\desktop\\collegeproject\\ecomapi\\ecomapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17EBDC6-A94A-4561-BAB4-F7068EF3EB14}|ecomapi\\ecomapi.csproj|solutionrelative:ecomapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_PRANAVKUMAR_DOCUMENTS_ECOM_DB1.MDF/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17EBDC6-A94A-4561-BAB4-F7068EF3EB14}|ecomapi\\ecomapi.csproj|c:\\users\\pranavkumar\\desktop\\collegeproject\\ecomapi\\ecomapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B17EBDC6-A94A-4561-BAB4-F7068EF3EB14}|ecomapi\\ecomapi.csproj|solutionrelative:ecomapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ecomapi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ecomapi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T06:59:24.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\Program.cs",
+              "RelativeDocumentMoniker": "ecomapi\\Program.cs",
+              "ToolTip": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\Program.cs",
+              "RelativeToolTip": "ecomapi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:39:37.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_PRANAVKUMAR_DOCUMENTS_ECOM_DB1.MDF/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_PRANAVKUMAR_DOCUMENTS_ECOM_DB1.MDF/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-22T10:01:36.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ecomapi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ecomapi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:54:54.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\Controllers\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ecomapi\\Controllers\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\Controllers\\AppDbContext.cs",
+              "RelativeToolTip": "ecomapi\\Controllers\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:48:53.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ecomapi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ecomapi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:34:24.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ecomapi\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\Models\\Product.cs",
+              "RelativeToolTip": "ecomapi\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:46:50.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ecomapi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\Models\\User.cs",
+              "RelativeToolTip": "ecomapi\\Models\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:48:47.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\appsettings.json",
+              "RelativeDocumentMoniker": "ecomapi\\appsettings.json",
+              "ToolTip": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\appsettings.json",
+              "RelativeToolTip": "ecomapi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T11:39:19.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

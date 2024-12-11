@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "pgqmr9GDiHADBj2hZrxSIyCs8FoB7PfhGvxv3//4CZQ=",
+  "Source": "ecomapi",
+  "BasePath": "_content/ecomapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ecomapi\\wwwroot",
+      "Source": "ecomapi",
+      "ContentRoot": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\wwwroot\\",
+      "BasePath": "_content/ecomapi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\wwwroot\\Productimg\\20241108111730495.PNG",
+      "SourceId": "ecomapi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\wwwroot\\",
+      "BasePath": "_content/ecomapi",
+      "RelativePath": "Productimg/20241108111730495#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yg0qnwkns7",
+      "Integrity": "4nvBa/quZj48/rv0bHZlhqvfI3rZqEIYieaqLJY6BX0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Productimg\\20241108111730495.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\wwwroot\\Productimg\\20241114165038416.PNG",
+      "SourceId": "ecomapi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\wwwroot\\",
+      "BasePath": "_content/ecomapi",
+      "RelativePath": "Productimg/20241114165038416#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ypiswu70ir",
+      "Integrity": "OuowYzcCCL6zmFdoGpEd1jdbDCK/Rxpx82FB/dz7/MY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Productimg\\20241114165038416.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\wwwroot\\Productimg\\20241114165720724.PNG",
+      "SourceId": "ecomapi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\wwwroot\\",
+      "BasePath": "_content/ecomapi",
+      "RelativePath": "Productimg/20241114165720724#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "som2dw4rkq",
+      "Integrity": "pHOTmggvN2j02pqwfkdkG9+HIFOpx1RfGN0Ue6BDJt4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Productimg\\20241114165720724.PNG"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Productimg/20241108111730495.PNG",
+      "AssetFile": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\wwwroot\\Productimg\\20241108111730495.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27978"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4nvBa/quZj48/rv0bHZlhqvfI3rZqEIYieaqLJY6BX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 05:47:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4nvBa/quZj48/rv0bHZlhqvfI3rZqEIYieaqLJY6BX0="
+        }
+      ]
+    },
+    {
+      "Route": "Productimg/20241108111730495.yg0qnwkns7.PNG",
+      "AssetFile": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\wwwroot\\Productimg\\20241108111730495.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27978"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4nvBa/quZj48/rv0bHZlhqvfI3rZqEIYieaqLJY6BX0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Nov 2024 05:47:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yg0qnwkns7"
+        },
+        {
+          "Name": "label",
+          "Value": "Productimg/20241108111730495.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4nvBa/quZj48/rv0bHZlhqvfI3rZqEIYieaqLJY6BX0="
+        }
+      ]
+    },
+    {
+      "Route": "Productimg/20241114165038416.PNG",
+      "AssetFile": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\wwwroot\\Productimg\\20241114165038416.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76810"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OuowYzcCCL6zmFdoGpEd1jdbDCK/Rxpx82FB/dz7/MY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Nov 2024 11:20:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OuowYzcCCL6zmFdoGpEd1jdbDCK/Rxpx82FB/dz7/MY="
+        }
+      ]
+    },
+    {
+      "Route": "Productimg/20241114165038416.ypiswu70ir.PNG",
+      "AssetFile": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\wwwroot\\Productimg\\20241114165038416.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76810"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OuowYzcCCL6zmFdoGpEd1jdbDCK/Rxpx82FB/dz7/MY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Nov 2024 11:20:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ypiswu70ir"
+        },
+        {
+          "Name": "label",
+          "Value": "Productimg/20241114165038416.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OuowYzcCCL6zmFdoGpEd1jdbDCK/Rxpx82FB/dz7/MY="
+        }
+      ]
+    },
+    {
+      "Route": "Productimg/20241114165720724.PNG",
+      "AssetFile": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\wwwroot\\Productimg\\20241114165720724.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pHOTmggvN2j02pqwfkdkG9+HIFOpx1RfGN0Ue6BDJt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Nov 2024 11:27:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pHOTmggvN2j02pqwfkdkG9+HIFOpx1RfGN0Ue6BDJt4="
+        }
+      ]
+    },
+    {
+      "Route": "Productimg/20241114165720724.som2dw4rkq.PNG",
+      "AssetFile": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\wwwroot\\Productimg\\20241114165720724.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pHOTmggvN2j02pqwfkdkG9+HIFOpx1RfGN0Ue6BDJt4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 14 Nov 2024 11:27:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "som2dw4rkq"
+        },
+        {
+          "Name": "label",
+          "Value": "Productimg/20241114165720724.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pHOTmggvN2j02pqwfkdkG9+HIFOpx1RfGN0Ue6BDJt4="
+        }
+      ]
+    }
+  ]
+}

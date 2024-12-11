@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\wwwroot\\Productimg\\20241108111730495.PNG",
+      "PackagePath": "staticwebassets\\Productimg\\20241108111730495.PNG"
+    },
+    {
+      "Id": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\wwwroot\\Productimg\\20241114165038416.PNG",
+      "PackagePath": "staticwebassets\\Productimg\\20241114165038416.PNG"
+    },
+    {
+      "Id": "C:\\Users\\PranavKumar\\Desktop\\CollegeProject\\ecomapi\\ecomapi\\wwwroot\\Productimg\\20241114165720724.PNG",
+      "PackagePath": "staticwebassets\\Productimg\\20241114165720724.PNG"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ecomapi.props",
+      "PackagePath": "build\\ecomapi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ecomapi.props",
+      "PackagePath": "buildMultiTargeting\\ecomapi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ecomapi.props",
+      "PackagePath": "buildTransitive\\ecomapi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ecomapi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ecomapi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
